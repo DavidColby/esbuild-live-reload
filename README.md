@@ -1,24 +1,3 @@
-# README
+This repo is a demonstration of adding live reloading to an esbuild powered Ruby on Rails application.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See the article on my blog for a walkthrough of the implementation: https://www.colby.so/posts/live-reloading-with-esbuild-and-rails
